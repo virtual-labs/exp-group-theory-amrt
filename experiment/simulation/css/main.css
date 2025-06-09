@@ -1,4 +1,15 @@
 /* You CSS goes in here */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Horizontal centering */
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
 .download-section {
   background: #fff;
   padding: 20px;
@@ -83,6 +94,7 @@ img {
 
 .accordion {
   max-width: 600px;
+  width: 100%;
   background: #fff;
   border-radius: 8px;
   margin-top: 20px;
