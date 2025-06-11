@@ -1776,18 +1776,20 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
 
 ## Some Important Character Tables for Molecular Point Groups:
 
-<ul>
-  <li>Character Table for Non-Axial Point Groups</li>
-  <li>Character Table for C<sub>n</sub> Point Groups</li>
-  <li>Character Table for C<sub>nv</sub> Point Groups</li>
-  <li>Character Table for C<sub>nh</sub> Point Groups</li>
-  <li>Character Table for D<sub>n</sub> Point Groups</li>
-  <li>Character Table for D<sub>nh</sub> Point Groups</li>
-  <li>Character Table for D<sub>nd</sub> Point Groups</li>
-  <li>Character Table for S<sub>n</sub> Point Groups</li>
-  <li>Character Tables for Higher Point Groups</li>
-  <li>Character Tables for Linear Point Groups</li>
-</ul>
+
+<ol>
+  <li><a href="./images/doc1.pdf" target="_blank">Character Table for Non-Axial Point Groups</a></li>
+  <li><a href="./images/doc2.pdf" target="_blank">Character Table for C<sub>n</sub> Point Groups</a></li>
+  <li><a href="./images/doc3.pdf" target="_blank">Character Table for C<sub>nv</sub> Point Groups</a></li>
+  <li><a href="./images/doc4.pdf" target="_blank">Character Table for C<sub>nh</sub> Point Groups</a></li>
+  <li><a href="./images/doc5.pdf" target="_blank">Character Table for D<sub>n</sub> Point Groups</a></li>
+  <li><a href="./images/doc6.pdf" target="_blank">Character Table for D<sub>nh</sub> Point Groups</a></li>
+  <li><a href="./images/doc7.pdf" target="_blank">Character Table for D<sub>nd</sub> Point Groups</a></li>
+  <li><a href="./images/doc8.pdf" target="_blank">Character Table for S<sub>n</sub> Point Groups</a></li>
+  <li><a href="./images/doc9.pdf" target="_blank">Character Tables for Higher Point Groups</a></li>
+  <li><a href="./images/doc10.pdf" target="_blank">Character Tables for Linear Point Groups</a></li>
+</ol>
+
 
 
 
