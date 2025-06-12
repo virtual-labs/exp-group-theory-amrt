@@ -1,36 +1,36 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "The point group symmetry of the BF₃ is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "D₃h",
+        "b": "D₄h",
+        "c": "C₃v",
+        "d": "Dₙ"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Explanation for D₃h",
+        "b": "Explanation for D₄h",
+        "c": "Explanation for C₃v",
+        "d": "Explanation for Dₙ"
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the Schoenflies symbol for center of symmetry?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Cn",
+        "b": "Sn",
+        "c": "i",
+        "d": "I"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Cn refers to rotation groups",
+        "b": "Sn refers to improper rotation groups",
+        "c": "i represents the center of symmetry",
+        "d": "I is for icosahedral group"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
