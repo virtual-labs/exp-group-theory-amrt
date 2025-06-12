@@ -2,38 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which compound contains Icosahedron as a point group?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Water",
+        "b": "Fullerene",
+        "c": "Benzene",
+        "d": "Cl₂"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Water is C₂v",
+        "b": "Fullerene has icosahedral symmetry",
+        "c": "Benzene is D₆h",
+        "d": "Cl₂ is D∞h"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The order of Th group is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "11",
+        "b": "24",
+        "c": "10",
+        "d": "18"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Th has more than 11 symmetry elements",
+        "b": "Correct: Th has 24 elements",
+        "c": "Incorrect, too low",
+        "d": "Also too low"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Cis Dichloroethane belongs to C₂v point group, whereas trans Dichloroethane belongs to",
+      "answers": {
+        "a": "Dnh",
+        "b": "C₃v",
+        "c": "C₂h",
+        "d": "C₂n"
+      },
+      "explanations": {
+        "a": "Incorrect group",
+        "b": "C₃v is for trigonal pyramidal",
+        "c": "Correct for trans isomer",
+        "d": "Not a valid group here"
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
     }
   ]
 }
