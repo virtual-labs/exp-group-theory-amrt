@@ -610,7 +610,10 @@ An example of a molecule belonging to this group is <strong>SiO<sub>4</sub>(CH<s
   <p><strong>Examples</strong> are HX (X = F, Cl, Br, I), CO, NO, CN etc.</p>
 </div>
 
-![099(1)](https://github.com/user-attachments/assets/0d6dec98-0325-429c-ba15-28172654548b)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/0d6dec98-0325-429c-ba15-28172654548b" alt="099(1)">
+</div>
+
 
 <h3>D∞<sub>v</sub> Point Group</h3>
 <p>
@@ -627,7 +630,9 @@ Typical examples include homonuclear diatomic molecules such as
 <strong>F<sub>2</sub></strong>, and <strong>Cl<sub>2</sub></strong>.
 </p>
 
-![0111(3)](https://github.com/user-attachments/assets/fcc426f0-78a5-4bea-b72a-656266d81a45)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/fcc426f0-78a5-4bea-b72a-656266d81a45" alt="0111(3)">
+</div>
 
 <h3>Molecules Containing Multiple Higher-Order Axes</h3>
 <p>
@@ -676,7 +681,9 @@ There is another uncommon point group, <b>T<sub>h</sub></b>, which can be obtain
 <b>Example:</b> Co(NO<sub>2</sub>)<sub>6</sub><sup>3−</sup>
 </p>
 
-![0444(3)](https://github.com/user-attachments/assets/0379206a-bfcd-4920-b480-5ceac8a19079)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/0379206a-bfcd-4920-b480-5ceac8a19079" alt="0444(3)">
+</div>
 
 
 <h3>Octahedral Point Groups</h3>
@@ -1334,7 +1341,7 @@ The characters are <strong>1 1 -1 -1</strong>. Therefore, it corresponds to <str
   <caption><strong>C<sub>2v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>2v</sub></th>
       <th>E</th>
       <th>C<sub>2z</sub></th>
       <th>σ<sub>xz</sub></th>
@@ -1401,7 +1408,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>2v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>2v</sub></th>
       <th>E</th>
       <th>C<sub>2z</sub></th>
       <th>σ<sub>xz</sub></th>
@@ -1465,7 +1472,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1501,7 +1508,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1545,7 +1552,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1585,7 +1592,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1623,7 +1630,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1658,13 +1665,15 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
 
 <p>Consider,</p>
 
-
-![e](https://github.com/user-attachments/assets/e6251178-0c6a-4dc2-9cef-85aad5227cee)
-
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/e6251178-0c6a-4dc2-9cef-85aad5227cee" alt="e">
+</div>
 
 <p>The characters are 1&nbsp;1&nbsp;1 corresponding to A<sub>1</sub>.</p>
 
-![f](https://github.com/user-attachments/assets/28b14d0b-b31c-46b1-9099-6c6191af8ddd)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/28b14d0b-b31c-46b1-9099-6c6191af8ddd" alt="f">
+</div>
 
 <p>The characters are 1&nbsp;−1&nbsp;1, the character corresponding to C<sub>3</sub> will be −1. Therefore, it will be <strong>E</strong>.</p>
 
@@ -1672,13 +1681,17 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
 
 <p>Similar arrangements could be made for the rotation axes R<sub>x</sub>, R<sub>y</sub>, and R<sub>z</sub>.</p>
 
-![g](https://github.com/user-attachments/assets/0ac4b37d-1d1e-43d9-825b-7ff8b5d17e8a)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/0ac4b37d-1d1e-43d9-825b-7ff8b5d17e8a" alt="g">
+</div>
 
 
 <p>The characters are 1&nbsp;−1&nbsp;1. Therefore, it corresponds to <strong>E</strong> and it will become R<sub>x</sub>.</p>
 
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/0c53b1da-ee50-4797-9b70-ba276406c81f" alt="h">
+</div>
 
-![h](https://github.com/user-attachments/assets/0c53b1da-ee50-4797-9b70-ba276406c81f)
 
 
 <p>The characters are 1&nbsp;1&nbsp;−1. Therefore, it corresponds to <strong>A<sub>2</sub></strong> and it will become R<sub>z</sub>.</p>
@@ -1689,7 +1702,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1737,7 +1750,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th><strong>C<sub>3v</sub></strong></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
