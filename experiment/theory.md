@@ -1341,7 +1341,7 @@ The characters are <strong>1 1 -1 -1</strong>. Therefore, it corresponds to <str
   <caption><strong>C<sub>2v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>2v</sub></th>
       <th>E</th>
       <th>C<sub>2z</sub></th>
       <th>σ<sub>xz</sub></th>
@@ -1408,7 +1408,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>2v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>2v</sub></th>
       <th>E</th>
       <th>C<sub>2z</sub></th>
       <th>σ<sub>xz</sub></th>
@@ -1472,7 +1472,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1508,7 +1508,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1552,7 +1552,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1592,7 +1592,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1630,7 +1630,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1702,7 +1702,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th>C<sub>3v</sub></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
@@ -1750,7 +1750,7 @@ YZ   = B2 · A1  = 1 -1 -1  1  = B2
   <caption><strong>C<sub>3v</sub> Character Table</strong></caption>
   <thead>
     <tr>
-      <th></th>
+      <th><strong>C<sub>3v</sub></strong></th>
       <th>E</th>
       <th>2C<sub>3</sub></th>
       <th>3σ<sub>v</sub></th>
