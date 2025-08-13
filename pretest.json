@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+   {
+      "question": "The point group symmetry of the BF₃ is",
+      "answers": {
+        "a": "D₃h",
+        "b": "D₄h",
+        "c": "C₃v",
+        "d": "Dₙ"
+      },
+      "explanations": {
+        "a": "Explanation for D₃h",
+        "b": "Explanation for D₄h",
+        "c": "Explanation for C₃v",
+        "d": "Explanation for Dₙ"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the Schoenflies symbol for center of symmetry?",
+      "answers": {
+        "a": "Cn",
+        "b": "Sn",
+        "c": "i",
+        "d": "I"
+      },
+      "explanations": {
+        "a": "Cn refers to rotation groups",
+        "b": "Sn refers to improper rotation groups",
+        "c": "i represents the center of symmetry",
+        "d": "I is for icosahedral group"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which compound contains Icosahedron as a point group?",
+      "answers": {
+        "a": "Water",
+        "b": "Fullerene",
+        "c": "Benzene",
+        "d": "Cl₂"
+      },
+      "explanations": {
+        "a": "Water is C₂v",
+        "b": "Fullerene has icosahedral symmetry",
+        "c": "Benzene is D₆h",
+        "d": "Cl₂ is D∞h"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The order of Th group is",
+      "answers": {
+        "a": "11",
+        "b": "24",
+        "c": "10",
+        "d": "18"
+      },
+      "explanations": {
+        "a": "Th has more than 11 symmetry elements",
+        "b": "Correct: Th has 24 elements",
+        "c": "Incorrect, too low",
+        "d": "Also too low"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Cis Dichloroethane belongs to C₂v point group, whereas trans Dichloroethane belongs to",
+      "answers": {
+        "a": "Dnh",
+        "b": "C₃v",
+        "c": "C₂h",
+        "d": "C₂n"
+      },
+      "explanations": {
+        "a": "Incorrect group",
+        "b": "C₃v is for trigonal pyramidal",
+        "c": "Correct for trans isomer",
+        "d": "Not a valid group here"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    }
+  ]
+}

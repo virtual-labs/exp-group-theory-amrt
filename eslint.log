@@ -1,0 +1,1235 @@
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/Common/HighCharts/data.js
+   9:38   warning  'HighchartsAdapter' is not defined                                         no-undef
+  10:492  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  14:76   warning  'jQuery' is not defined                                                    no-undef
+  14:285  warning  'a' is already defined                                                     no-redeclare
+  16:67   warning  'q' is already defined                                                     no-redeclare
+  17:431  warning  Unnecessary escape character: \-                                           no-useless-escape
+  17:433  warning  Unnecessary escape character: \/                                           no-useless-escape
+  17:435  warning  Unnecessary escape character: \.                                           no-useless-escape
+  17:449  warning  Unnecessary escape character: \-                                           no-useless-escape
+  17:451  warning  Unnecessary escape character: \/                                           no-useless-escape
+  17:453  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:52   warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:54   warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:56   warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:72   warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:74   warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:76   warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:209  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:211  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:213  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:229  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:231  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:233  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:339  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:341  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:343  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:359  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:361  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:363  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:496  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:498  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:500  warning  Unnecessary escape character: \.                                           no-useless-escape
+  18:516  warning  Unnecessary escape character: \-                                           no-useless-escape
+  18:518  warning  Unnecessary escape character: \/                                           no-useless-escape
+  18:520  warning  Unnecessary escape character: \.                                           no-useless-escape
+  23:350  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  26:53   warning  'Highcharts' is not defined                                                no-undef
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/Common/HighCharts/exportcsv.js
+   8:22  warning  'window' is already defined as a built-in global variable                  no-redeclare
+   8:30  warning  'document' is already defined as a built-in global variable                no-redeclare
+   8:40  warning  'Blob' is already defined as a built-in global variable                    no-redeclare
+  86:22  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/Common/HighCharts/exporting.js
+  11:479  warning  'b' is already defined                                           no-redeclare
+  13:485  warning  'f' is already defined                                           no-redeclare
+  14:481  warning  Unnecessary escape character: \.                                 no-useless-escape
+  15:507  warning  'b' is already defined                                           no-redeclare
+  16:32   warning  'd' is already defined                                           no-redeclare
+  16:191  warning  'b' is already defined                                           no-redeclare
+  20:247  warning  'n' is already defined                                           no-redeclare
+  21:508  warning  'b' is already defined                                           no-redeclare
+  22:58   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  23:101  warning  'Highcharts' is not defined                                      no-undef
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/Common/HighCharts/highcharts.js
+    8:116  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   11:181  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   11:327  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   11:453  warning  'c' is already defined                                                     no-redeclare
+   17:429  warning  'a' is already defined                                                     no-redeclare
+   18:43   warning  'd' is already defined                                                     no-redeclare
+   19:88   warning  'a' is already defined                                                     no-redeclare
+   19:169  warning  'b' is already defined                                                     no-redeclare
+   19:199  warning  'd' is already defined                                                     no-redeclare
+   19:229  warning  'e' is already defined                                                     no-redeclare
+   19:242  warning  'c' is already defined                                                     no-redeclare
+   19:442  warning  'b' is already defined                                                     no-redeclare
+   19:490  warning  'b' is already defined                                                     no-redeclare
+   20:1    warning  'c' is already defined                                                     no-redeclare
+   21:482  warning  'a' is already defined                                                     no-redeclare
+   32:429  warning  'U' is already defined                                                     no-redeclare
+   33:221  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   33:284  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   37:484  warning  'a' is already defined                                                     no-redeclare
+   47:20   warning  Empty block statement                                                      no-empty
+   51:93   warning  Unnecessary escape character: \-                                           no-useless-escape
+   51:98   warning  Unnecessary escape character: \.                                           no-useless-escape
+   51:298  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   53:401  warning  'c' is already defined                                                     no-redeclare
+   56:3    warning  'd' is already defined                                                     no-redeclare
+   56:316  warning  Unnecessary escape character: \(                                           no-useless-escape
+   56:319  warning  Unnecessary escape character: \)                                           no-useless-escape
+   60:182  warning  'e' is already defined                                                     no-redeclare
+   61:242  warning  'n' is already defined                                                     no-redeclare
+   61:258  warning  Unnecessary escape character: \^                                           no-useless-escape
+   62:214  warning  'w' is assigned a value but never used                                     no-unused-vars
+   63:236  warning  'a' is already defined                                                     no-redeclare
+   63:260  warning  'e' is already defined                                                     no-redeclare
+   64:392  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   66:182  warning  'e' is already defined                                                     no-redeclare
+   66:225  warning  'a' is already defined                                                     no-redeclare
+   67:495  warning  'h' is already defined                                                     no-redeclare
+   69:441  warning  'c' is already defined                                                     no-redeclare
+   69:467  warning  'd' is already defined                                                     no-redeclare
+   70:8    warning  'g' is already defined                                                     no-redeclare
+   70:16   warning  'e' is already defined                                                     no-redeclare
+   70:213  warning  'e' is already defined                                                     no-redeclare
+   71:290  warning  'a' is already defined                                                     no-redeclare
+   72:323  warning  'a' is already defined                                                     no-redeclare
+   74:109  warning  'a' is already defined                                                     no-redeclare
+   76:252  warning  'a' is already defined                                                     no-redeclare
+   77:111  warning  'j' is a function                                                          no-func-assign
+   77:113  warning  'k' is a function                                                          no-func-assign
+   77:115  warning  'm' is a function                                                          no-func-assign
+   77:190  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   79:215  warning  Unnecessary escape character: \-                                           no-useless-escape
+   81:333  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   83:297  warning  'd' is already defined                                                     no-redeclare
+   86:322  warning  'a' is already defined                                                     no-redeclare
+   88:403  warning  'a' is already defined                                                     no-redeclare
+   92:380  warning  'a' is already defined                                                     no-redeclare
+   92:444  warning  'b' is already defined                                                     no-redeclare
+   92:475  warning  'd' is already defined                                                     no-redeclare
+   93:385  warning  'a' is already defined                                                     no-redeclare
+   94:428  warning  'j' is already defined                                                     no-redeclare
+   94:482  warning  'j' is already defined                                                     no-redeclare
+   96:1    warning  'a' is already defined                                                     no-redeclare
+   98:195  warning  'c' is already defined                                                     no-redeclare
+   98:206  warning  'd' is already defined                                                     no-redeclare
+  100:321  warning  'e' is already defined                                                     no-redeclare
+  100:342  warning  'd' is already defined                                                     no-redeclare
+  100:355  warning  'h' is already defined                                                     no-redeclare
+  101:480  warning  'e' is already defined                                                     no-redeclare
+  103:441  warning  'c' is already defined                                                     no-redeclare
+  103:493  warning  'a' is already defined                                                     no-redeclare
+  104:23   warning  'b' is already defined                                                     no-redeclare
+  104:461  warning  'l' is already defined                                                     no-redeclare
+  105:28   warning  'n' is already defined                                                     no-redeclare
+  105:107  warning  'r' is already defined                                                     no-redeclare
+  105:154  warning  'c' is already defined                                                     no-redeclare
+  112:278  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  114:127  warning  'd' is already defined                                                     no-redeclare
+  115:381  warning  'a' is already defined                                                     no-redeclare
+  117:396  warning  'd' is already defined                                                     no-redeclare
+  117:435  warning  'e' is already defined                                                     no-redeclare
+  119:95   warning  'e' is already defined                                                     no-redeclare
+  119:132  warning  'a' is already defined                                                     no-redeclare
+  120:151  warning  'f' is already defined                                                     no-redeclare
+  121:161  warning  'j' is assigned a value but never used                                     no-unused-vars
+  130:246  warning  'd' is already defined                                                     no-redeclare
+  132:451  warning  'c' is already defined                                                     no-redeclare
+  133:195  warning  'e' is already defined                                                     no-redeclare
+  134:36   warning  'b' is already defined                                                     no-redeclare
+  134:61   warning  'c' is already defined                                                     no-redeclare
+  135:69   warning  'b' is already defined                                                     no-redeclare
+  137:184  warning  'g' is already defined                                                     no-redeclare
+  137:235  warning  'h' is already defined                                                     no-redeclare
+  139:376  warning  'b' is already defined                                                     no-redeclare
+  142:309  warning  'd' is already defined                                                     no-redeclare
+  143:149  warning  'd' is already defined                                                     no-redeclare
+  143:204  warning  'b' is already defined                                                     no-redeclare
+  152:243  warning  'd' is already defined                                                     no-redeclare
+  154:303  warning  'f' is already defined                                                     no-redeclare
+  154:320  warning  'e' is already defined                                                     no-redeclare
+  158:51   warning  'a' is already defined                                                     no-redeclare
+  160:475  warning  'i' is already defined                                                     no-redeclare
+  162:330  warning  'c' is already defined                                                     no-redeclare
+  163:1    warning  'b' is already defined                                                     no-redeclare
+  164:90   warning  'c' is already defined                                                     no-redeclare
+  165:48   warning  'c' is already defined                                                     no-redeclare
+  165:451  warning  'a' is already defined                                                     no-redeclare
+  165:469  warning  'a' is already defined                                                     no-redeclare
+  173:344  warning  'f' is already defined                                                     no-redeclare
+  174:433  warning  'a' is already defined                                                     no-redeclare
+  175:490  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  176:385  warning  'a' is already defined                                                     no-redeclare
+  179:279  warning  'c' is already defined                                                     no-redeclare
+  181:255  warning  'e' is already defined                                                     no-redeclare
+  183:99   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  187:1    warning  'c' is already defined                                                     no-redeclare
+  187:62   warning  'g' is already defined                                                     no-redeclare
+  187:318  warning  'b' is already defined                                                     no-redeclare
+  187:353  warning  'd' is already defined                                                     no-redeclare
+  190:345  warning  'u' is already defined                                                     no-redeclare
+  196:157  warning  'f' is already defined                                                     no-redeclare
+  198:435  warning  'g' is already defined                                                     no-redeclare
+  200:274  warning  'a' is already defined                                                     no-redeclare
+  203:55   warning  'a' is already defined                                                     no-redeclare
+  206:5    warning  'b' is already defined                                                     no-redeclare
+  207:44   warning  'a' is already defined                                                     no-redeclare
+  207:330  warning  'e' is already defined                                                     no-redeclare
+  208:423  warning  'a' is already defined                                                     no-redeclare
+  213:114  warning  'c' is already defined                                                     no-redeclare
+  213:129  warning  'd' is already defined                                                     no-redeclare
+  225:226  warning  'c' is already defined                                                     no-redeclare
+  225:463  warning  'b' is already defined                                                     no-redeclare
+  225:493  warning  'e' is already defined                                                     no-redeclare
+  227:98   warning  'a' is already defined                                                     no-redeclare
+  233:460  warning  'b' is already defined                                                     no-redeclare
+  235:1    warning  'b' is already defined                                                     no-redeclare
+  237:279  warning  'a' is already defined                                                     no-redeclare
+  242:170  warning  'a' is already defined                                                     no-redeclare
+  242:416  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  243:322  warning  'a' is already defined                                                     no-redeclare
+  248:286  warning  'a' is already defined                                                     no-redeclare
+  248:294  warning  'b' is already defined                                                     no-redeclare
+  248:302  warning  'c' is already defined                                                     no-redeclare
+  248:310  warning  'd' is already defined                                                     no-redeclare
+  251:93   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  251:448  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  260:327  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  262:382  warning  'c' is already defined                                                     no-redeclare
+  263:188  warning  'f' is already defined                                                     no-redeclare
+  263:285  warning  'c' is already defined                                                     no-redeclare
+  263:302  warning  'c' is already defined                                                     no-redeclare
+  263:359  warning  'f' is already defined                                                     no-redeclare
+  263:427  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  266:485  warning  'e' is already defined                                                     no-redeclare
+  267:148  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  272:26   warning  'b' is already defined                                                     no-redeclare
+  272:331  warning  'h' is already defined                                                     no-redeclare
+  274:353  warning  'a' is already defined                                                     no-redeclare
+  276:21   warning  'a' is already defined                                                     no-redeclare
+  278:46   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  280:377  warning  'g' is already defined                                                     no-redeclare
+  284:134  warning  'b' is already defined                                                     no-redeclare
+  285:289  warning  'h' is already defined                                                     no-redeclare
+  290:474  warning  'b' is already defined                                                     no-redeclare
+  294:329  warning  'i' is already defined                                                     no-redeclare
+  294:422  warning  'c' is already defined                                                     no-redeclare
+  307:200  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  309:473  warning  'HighchartsAdapter' is not defined                                         no-undef
+  310:425  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  313:265  warning  'k' is already defined                                                     no-redeclare
+  315:392  warning  'b' is already defined                                                     no-redeclare
+  318:400  warning  'j' is already defined                                                     no-redeclare
+  318:452  warning  'i' is already defined                                                     no-redeclare
+  319:228  warning  'a' is already defined                                                     no-redeclare
+  321:423  warning  'a' is already defined                                                     no-redeclare
+  325:39   warning  'b' is already defined                                                     no-redeclare
+  325:43   warning  'a' is already defined                                                     no-redeclare
+  325:387  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/Common/HighCharts/jquery-1.11.2.min.js
+  2:58     warning  'module' is not defined                                                    no-undef
+  2:73     warning  'module' is not defined                                                    no-undef
+  2:6389   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6622   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7072   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7304   warning  Empty block statement                                                      no-empty
+  2:7869   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9753   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11309  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11885  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11923  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12327  warning  Empty block statement                                                      no-empty
+  2:12890  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13202  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15025  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15263  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15411  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15749  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:16454  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18840  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18929  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18989  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20255  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20830  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20938  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:22957  warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:22959  warning  Unnecessary escape character: \.                                           no-useless-escape
+  2:30650  warning  Empty block statement                                                      no-empty
+  2:31892  warning  Empty block statement                                                      no-empty
+  3:4950   warning  Empty block statement                                                      no-empty
+  3:7951   warning  Empty block statement                                                      no-empty
+  3:10571  warning  Empty block statement                                                      no-empty
+  3:19860  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:19987  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:22132  warning  Empty block statement                                                      no-empty
+  3:26318  warning  Move function declaration to function body root                            no-inner-declarations
+  3:30101  warning  Empty block statement                                                      no-empty
+  4:2091   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:4545   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:10638  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:12534  warning  Empty block statement                                                      no-empty
+  4:13833  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:14277  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:14691  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:15794  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:16285  warning  'ActiveXObject' is not defined                                             no-undef
+  4:16669  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:16681  warning  Unnecessary escape character: \/                                           no-useless-escape
+  4:16980  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:19469  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:21369  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:26181  warning  Empty block statement                                                      no-empty
+  4:26258  warning  Empty block statement                                                      no-empty
+  4:31572  warning  'define' is not defined                                                    no-undef
+  4:31584  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/Detector.js
+   6:1   warning  'Detector' is not defined  no-undef
+  52:13  warning  'Detector' is not defined  no-undef
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/lib/prototype.js
+    52:46   warning  Unnecessary escape character: \/                                           no-useless-escape
+    73:25   warning  Unnecessary semicolon                                                      no-extra-semi
+   232:20   warning  'i' is already defined                                                     no-redeclare
+   232:27   warning  'length' is already defined                                                no-redeclare
+   239:20   warning  'i' is already defined                                                     no-redeclare
+   239:27   warning  'length' is already defined                                                no-redeclare
+   240:17   warning  'key' is already defined                                                   no-redeclare
+   240:32   warning  'str' is already defined                                                   no-redeclare
+   268:18   warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+   298:5    warning  'isArray' is a function                                                    no-func-assign
+   359:44   warning  Unnecessary escape character: \(                                           no-useless-escape
+   461:50   warning  Unnecessary escape character: \/                                           no-useless-escape
+   537:11   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+   660:38   warning  Unexpected control character(s) in regular expression: \x00, \x1f          no-control-regex
+   677:33   warning  Unnecessary escape character: \/                                           no-useless-escape
+   678:78   warning  Unnecessary escape character: \-                                           no-useless-escape
+   685:14   warning  Unexpected control character(s) in regular expression: \x00                no-control-regex
+   685:14   warning  Unexpected combined character in character class                           no-misleading-character-class
+   693:17   warning  Empty block statement                                                      no-empty
+   834:11   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  1203:2    warning  Unnecessary semicolon                                                      no-extra-semi
+  1416:19   warning  Empty block statement                                                      no-empty
+  1427:30   warning  'ActiveXObject' is not defined                                             no-undef
+  1428:30   warning  'ActiveXObject' is not defined                                             no-undef
+  1456:21   warning  Empty block statement                                                      no-empty
+  1625:46   warning  Unnecessary escape character: \/                                           no-useless-escape
+  1761:9    warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2135:12   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2170:39   warning  'maximumLength' is defined but never used                                  no-unused-vars
+  2226:11   warning  'maximumLength' is assigned a value but never used                         no-unused-vars
+  2351:12   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2382:39   warning  'match' is defined but never used                                          no-unused-vars
+  2544:11   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2559:39   warning  Unnecessary escape character: \)                                           no-useless-escape
+  2569:8    warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2722:31   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2761:19   warning  Empty block statement                                                      no-empty
+  3216:11   warning  'position' is assigned a value but never used                              no-unused-vars
+  3244:12   warning  'toCSSPixels' is defined but never used                                    no-unused-vars
+  3252:9    warning  'originalElement' is assigned a value but never used                       no-unused-vars
+  3300:19   warning  'property' is defined but never used                                       no-unused-vars
+  3300:29   warning  'value' is defined but never used                                          no-unused-vars
+  3430:26   warning  'element' is defined but never used                                        no-unused-vars
+  3450:25   warning  'element' is defined but never used                                        no-unused-vars
+  3470:38   warning  'element' is defined but never used                                        no-unused-vars
+  3478:37   warning  'element' is defined but never used                                        no-unused-vars
+  3500:37   warning  'element' is defined but never used                                        no-unused-vars
+  3510:36   warning  'element' is defined but never used                                        no-unused-vars
+  3767:14   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3775:14   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3825:5    warning  'getOffsetParent' is a function                                            no-func-assign
+  3842:5    warning  'positionedOffset' is a function                                           no-func-assign
+  3858:5    warning  'cumulativeOffset' is a function                                           no-func-assign
+  3971:105  warning  Unnecessary escape character: \[                                           no-useless-escape
+  3994:36   warning  'check' is defined but never used                                          no-unused-vars
+  3994:43   warning  'mode' is defined but never used                                           no-unused-vars
+  4033:8    warning  'ret' is already defined                                                   no-redeclare
+  4082:14   warning  'i' is already defined                                                     no-redeclare
+  4129:29   warning  'match' is already defined                                                 no-redeclare
+  4234:30   warning  Unnecessary escape character: \*                                           no-useless-escape
+  4237:62   warning  Unnecessary escape character: \)                                           no-useless-escape
+  4237:73   warning  Unnecessary escape character: \(                                           no-useless-escape
+  4237:75   warning  Unnecessary escape character: \)                                           no-useless-escape
+  4261:69   warning  Empty block statement                                                      no-empty
+  4287:15   warning  'i' is already defined                                                     no-redeclare
+  4287:22   warning  'l' is already defined                                                     no-redeclare
+  4288:10   warning  'elem' is already defined                                                  no-redeclare
+  4329:34   warning  'isXML' is defined but never used                                          no-unused-vars
+  4371:48   warning  Empty block statement                                                      no-empty
+  4517:15   warning  'i' is already defined                                                     no-redeclare
+  4536:5    warning  Expected a 'break' statement before 'case'                                 no-fallthrough
+  4623:69   warning  Unnecessary escape character: \[                                           no-useless-escape
+  4623:81   warning  Unnecessary escape character: \(                                           no-useless-escape
+  4653:15   warning  'i' is already defined                                                     no-redeclare
+  4725:7    warning  Redundant double negation                                                  no-extra-boolean-cast
+  4793:14   warning  Empty block statement                                                      no-empty
+  4943:1    warning  Unnecessary semicolon                                                      no-extra-semi
+  4957:4    warning  'Sizzle' is not defined                                                    no-undef
+  5013:21   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  5149:17   warning  Empty block statement                                                      no-empty
+  5168:5    warning  'Field' is assigned a value but never used                                 no-unused-vars
+  5170:5    warning  '$F' is assigned a value but never used                                    no-unused-vars
+  5223:21   warning  'values' is already defined                                                no-redeclare
+  5357:34   warning  'event' is defined but never used                                          no-unused-vars
+  5365:34   warning  'event' is defined but never used                                          no-unused-vars
+  5494:5    warning  Move function declaration to function body root                            no-inner-declarations
+  5855:5    warning  'Toggle' is assigned a value but never used                                no-unused-vars
+  5859:5    warning  'Insertion' is assigned a value but never used                             no-unused-vars
+  5877:5    warning  '$continue' is assigned a value but never used                             no-unused-vars
+  5976:32   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  6051:17   warning  'Selector' is not defined                                                  no-undef
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/loaders/ColladaLoader.js
+     5:1    warning  'THREE' is not defined                            no-undef
+    13:1    warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+    28:6    warning  'flip_uv' is assigned a value but never used      no-unused-vars
+    29:25   warning  'THREE' is not defined                            no-undef
+    51:6    warning  'colladaUnit' is assigned a value but never used  no-unused-vars
+   120:3    warning  Unnecessary semicolon                             no-extra-semi
+   150:15   warning  'THREE' is not defined                            no-undef
+   188:3    warning  Unnecessary semicolon                             no-extra-semi
+   194:3    warning  Unnecessary semicolon                             no-extra-semi
+   233:3    warning  Unnecessary semicolon                             no-extra-semi
+   255:3    warning  Unnecessary semicolon                             no-extra-semi
+   272:3    warning  Unnecessary semicolon                             no-extra-semi
+   281:3    warning  Unnecessary semicolon                             no-extra-semi
+   321:13   warning  'i' is already defined                            no-redeclare
+   321:20   warning  'il' is already defined                           no-redeclare
+   338:3    warning  Unnecessary semicolon                             no-extra-semi
+   365:3    warning  Unnecessary semicolon                             no-extra-semi
+   386:4    warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+   387:4    warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+   388:4    warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+   403:3    warning  Unnecessary semicolon                             no-extra-semi
+   405:11   warning  'createSkin' is defined but never used            no-unused-vars
+   424:7    warning  'skeleton' is assigned a value but never used     no-unused-vars
+   425:7    warning  'hierarchy' is assigned a value but never used    no-unused-vars
+   429:7    warning  'bones' is assigned a value but never used        no-unused-vars
+   456:3    warning  Unnecessary semicolon                             no-extra-semi
+   460:34   warning  'THREE' is not defined                            no-undef
+   468:22   warning  'THREE' is not defined                            no-undef
+   490:3    warning  Unnecessary semicolon                             no-extra-semi
+   519:31   warning  'THREE' is not defined                            no-undef
+   524:15   warning  'j' is already defined                            no-redeclare
+   548:3    warning  Unnecessary semicolon                             no-extra-semi
+   572:5    warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+   575:15   warning  'THREE' is not defined                            no-undef
+   596:23   warning  'THREE' is not defined                            no-undef
+   639:3    warning  Unnecessary semicolon                             no-extra-semi
+   641:36   warning  'parent' is defined but never used                no-unused-vars
+   643:17   warning  'THREE' is not defined                            no-undef
+   667:7    warning  'skinned' is assigned a value but never used      no-unused-vars
+   681:12   warning  'inst_geom' is already defined                    no-redeclare
+   698:11   warning  'inst_geom' is already defined                    no-redeclare
+   710:5    warning  Expected a 'break' statement before 'default'     no-fallthrough
+   760:33   warning  'THREE' is not defined                            no-undef
+   781:42   warning  'THREE' is not defined                            no-undef
+   781:97   warning  'THREE' is not defined                            no-undef
+   781:145  warning  'THREE' is not defined                            no-undef
+   781:164  warning  'THREE' is not defined                            no-undef
+   786:21   warning  'THREE' is not defined                            no-undef
+   804:17   warning  'THREE' is not defined                            no-undef
+   818:17   warning  'THREE' is not defined                            no-undef
+   825:17   warning  'THREE' is not defined                            no-undef
+   841:14   warning  'THREE' is not defined                            no-undef
+   855:16   warning  'THREE' is not defined                            no-undef
+   869:3    warning  Unnecessary semicolon                             no-extra-semi
+   871:11   warning  'getJointId' is defined but never used            no-unused-vars
+   883:3    warning  Unnecessary semicolon                             no-extra-semi
+   889:3    warning  Unnecessary semicolon                             no-extra-semi
+   905:9    warning  'id' is already defined                           no-redeclare
+   930:3    warning  Unnecessary semicolon                             no-extra-semi
+   932:11   warning  'calcFrameDuration' is defined but never used     no-unused-vars
+   951:3    warning  Unnecessary semicolon                             no-extra-semi
+   953:11   warning  'calcMatrixAt' is defined but never used          no-unused-vars
+   966:20   warning  'THREE' is not defined                            no-undef
+   971:8    warning  'channel' is already defined                      no-redeclare
+   992:28   warning  'THREE' is not defined                            no-undef
+  1020:3    warning  Unnecessary semicolon                             no-extra-semi
+  1062:16   warning  'j' is already defined                            no-redeclare
+  1062:23   warning  'jl' is already defined                           no-redeclare
+  1089:14   warning  'i' is already defined                            no-redeclare
+  1093:15   warning  'j' is already defined                            no-redeclare
+  1095:10   warning  'key' is already defined                          no-redeclare
+  1112:3    warning  Unnecessary semicolon                             no-extra-semi
+  1136:3    warning  Unnecessary semicolon                             no-extra-semi
+  1156:3    warning  Unnecessary semicolon                             no-extra-semi
+  1195:3    warning  Unnecessary semicolon                             no-extra-semi
+  1215:3    warning  Unnecessary semicolon                             no-extra-semi
+  1237:3    warning  Unnecessary semicolon                             no-extra-semi
+  1244:3    warning  Unnecessary semicolon                             no-extra-semi
+  1274:3    warning  Unnecessary semicolon                             no-extra-semi
+  1317:3    warning  Unnecessary semicolon                             no-extra-semi
+  1358:8    warning  'source' is already defined                       no-redeclare
+  1415:3    warning  Unnecessary semicolon                             no-extra-semi
+  1540:13   warning  'i' is already defined                            no-redeclare
+  1577:14   warning  'j' is already defined                            no-redeclare
+  1594:20   warning  'THREE' is not defined                            no-undef
+  1596:3    warning  Unnecessary semicolon                             no-extra-semi
+  1673:21   warning  'THREE' is not defined                            no-undef
+  1675:3    warning  Unnecessary semicolon                             no-extra-semi
+  1683:8    warning  'id' is assigned a value but never used           no-unused-vars
+  1694:5    warning  'member' is assigned a value but never used       no-unused-vars
+  1805:21   warning  'THREE' is not defined                            no-undef
+  1901:3    warning  Unnecessary semicolon                             no-extra-semi
+  1927:4    warning  Expected a 'break' statement before 'case'        no-fallthrough
+  1930:20   warning  'THREE' is not defined                            no-undef
+  1936:20   warning  'THREE' is not defined                            no-undef
+  2130:3    warning  Unnecessary semicolon                             no-extra-semi
+  2187:3    warning  Unnecessary semicolon                             no-extra-semi
+  2202:3    warning  Unnecessary semicolon                             no-extra-semi
+  2246:3    warning  Unnecessary semicolon                             no-extra-semi
+  2286:3    warning  Unnecessary semicolon                             no-extra-semi
+  2292:10   warning  'j' is defined but never used                     no-unused-vars
+  2332:26   warning  'THREE' is not defined                            no-undef
+  2442:35   warning  'THREE' is not defined                            no-undef
+  2448:22   warning  'THREE' is not defined                            no-undef
+  2498:17   warning  'ndx' is already defined                          no-redeclare
+  2498:26   warning  'len' is already defined                          no-redeclare
+  2503:34   warning  'THREE' is not defined                            no-undef
+  2521:17   warning  'ndx' is already defined                          no-redeclare
+  2521:26   warning  'len' is already defined                          no-redeclare
+  2524:21   warning  'THREE' is not defined                            no-undef
+  2536:22   warning  'THREE' is not defined                            no-undef
+  2536:81   warning  'THREE' is not defined                            no-undef
+  2539:22   warning  'THREE' is not defined                            no-undef
+  2539:88   warning  'THREE' is not defined                            no-undef
+  2543:37   warning  'THREE' is not defined                            no-undef
+  2544:7    warning  'vec1' is defined but never used                  no-unused-vars
+  2544:13   warning  'vec2' is defined but never used                  no-unused-vars
+  2544:19   warning  'vec3' is defined but never used                  no-unused-vars
+  2544:25   warning  'v1' is defined but never used                    no-unused-vars
+  2544:29   warning  'v2' is defined but never used                    no-unused-vars
+  2544:33   warning  'norm' is defined but never used                  no-unused-vars
+  2552:23   warning  'THREE' is not defined                            no-undef
+  2560:16   warning  'ndx' is already defined                          no-redeclare
+  2560:25   warning  'len' is already defined                          no-redeclare
+  2617:23   warning  'THREE' is not defined                            no-undef
+  2619:3    warning  Unnecessary semicolon                             no-extra-semi
+  2683:3    warning  Unnecessary semicolon                             no-extra-semi
+  2693:3    warning  Unnecessary semicolon                             no-extra-semi
+  2704:3    warning  Unnecessary semicolon                             no-extra-semi
+  2736:3    warning  Unnecessary semicolon                             no-extra-semi
+  2764:3    warning  Unnecessary semicolon                             no-extra-semi
+  2788:3    warning  Unnecessary semicolon                             no-extra-semi
+  2898:3    warning  Unnecessary semicolon                             no-extra-semi
+  2922:20   warning  'THREE' is not defined                            no-undef
+  2930:3    warning  Unnecessary semicolon                             no-extra-semi
+  2956:23   warning  'THREE' is not defined                            no-undef
+  3045:3    warning  Unnecessary semicolon                             no-extra-semi
+  3117:25   warning  'THREE' is not defined                            no-undef
+  3118:47   warning  'THREE' is not defined                            no-undef
+  3118:70   warning  'THREE' is not defined                            no-undef
+  3119:47   warning  'THREE' is not defined                            no-undef
+  3119:70   warning  'THREE' is not defined                            no-undef
+  3162:25   warning  'THREE' is not defined                            no-undef
+  3191:47   warning  'THREE' is not defined                            no-undef
+  3191:66   warning  'THREE' is not defined                            no-undef
+  3198:25   warning  'THREE' is not defined                            no-undef
+  3205:25   warning  'THREE' is not defined                            no-undef
+  3212:25   warning  'THREE' is not defined                            no-undef
+  3227:3    warning  Unnecessary semicolon                             no-extra-semi
+  3271:3    warning  Unnecessary semicolon                             no-extra-semi
+  3333:3    warning  Unnecessary semicolon                             no-extra-semi
+  3494:3    warning  Unnecessary semicolon                             no-extra-semi
+  3511:3    warning  Unnecessary semicolon                             no-extra-semi
+  3548:10   warning  'src' is already defined                          no-redeclare
+  3585:3    warning  Unnecessary semicolon                             no-extra-semi
+  3594:7    warning  'id' is assigned a value but never used           no-unused-vars
+  3646:3    warning  Unnecessary semicolon                             no-extra-semi
+  3727:14   warning  'i' is already defined                            no-redeclare
+  3797:3    warning  Unnecessary semicolon                             no-extra-semi
+  3916:3    warning  Unnecessary semicolon                             no-extra-semi
+  3992:17   warning  'k' is already defined                            no-redeclare
+  3994:12   warning  'param' is already defined                        no-redeclare
+  4034:3    warning  Unnecessary semicolon                             no-extra-semi
+  4057:3    warning  Unnecessary semicolon                             no-extra-semi
+  4069:3    warning  Unnecessary semicolon                             no-extra-semi
+  4084:3    warning  Unnecessary semicolon                             no-extra-semi
+  4099:3    warning  Unnecessary semicolon                             no-extra-semi
+  4114:3    warning  Unnecessary semicolon                             no-extra-semi
+  4120:3    warning  Unnecessary semicolon                             no-extra-semi
+  4126:3    warning  Unnecessary semicolon                             no-extra-semi
+  4128:11   warning  '_attr_as_float' is defined but never used        no-unused-vars
+  4140:3    warning  Unnecessary semicolon                             no-extra-semi
+  4154:3    warning  Unnecessary semicolon                             no-extra-semi
+  4156:11   warning  '_attr_as_string' is defined but never used       no-unused-vars
+  4168:3    warning  Unnecessary semicolon                             no-extra-semi
+  4170:11   warning  '_format_float' is defined but never used         no-unused-vars
+  4199:3    warning  Unnecessary semicolon                             no-extra-semi
+  4217:3    warning  Unnecessary semicolon                             no-extra-semi
+  4237:3    warning  Unnecessary semicolon                             no-extra-semi
+  4270:3    warning  Unnecessary semicolon                             no-extra-semi
+  4291:9    warning  'tmp' is already defined                          no-redeclare
+  4299:9    warning  'tmp' is already defined                          no-redeclare
+  4306:9    warning  'tmp' is already defined                          no-redeclare
+  4313:9    warning  'tmp' is already defined                          no-redeclare
+  4321:9    warning  'tmp' is already defined                          no-redeclare
+  4328:3    warning  Unnecessary semicolon                             no-extra-semi
+  4334:14   warning  'THREE' is not defined                            no-undef
+  4336:3    warning  Unnecessary semicolon                             no-extra-semi
+  4386:14   warning  'THREE' is not defined                            no-undef
+  4393:3    warning  Unnecessary semicolon                             no-extra-semi
+  4409:3    warning  Unnecessary semicolon                             no-extra-semi
+  4485:3    warning  Unnecessary semicolon                             no-extra-semi
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/simcontrols.js
+    1:8   warning  'Detector' is not defined                         no-undef
+    1:26  warning  'Detector' is not defined                         no-undef
+    8:5   warning  'model' is defined but never used                 no-unused-vars
+   10:5   warning  'controls' is defined but never used              no-unused-vars
+   12:5   warning  'clock' is assigned a value but never used        no-unused-vars
+   12:17  warning  'THREE' is not defined                            no-undef
+   14:23  warning  'targetXRotation' is not defined                  no-undef
+   16:34  warning  'targetXRotationOnMouseDown' is not defined       no-undef
+   24:5   warning  'molSelect' is assigned a value but never used    no-unused-vars
+   28:5   warning  'yes2_flg' is assigned a value but never used     no-unused-vars
+   30:5   warning  'no1_flg' is assigned a value but never used      no-unused-vars
+   31:5   warning  'noflag1' is assigned a value but never used      no-unused-vars
+   32:5   warning  'noflag3' is assigned a value but never used      no-unused-vars
+   36:5   warning  'yesArr4Flag' is assigned a value but never used  no-unused-vars
+   39:5   warning  'molIndex' is already defined                     no-redeclare
+   53:1   warning  'daeName' is not defined                          no-undef
+   54:5   warning  'arr1' is assigned a value but never used         no-unused-vars
+   55:5   warning  'plane_arr' is assigned a value but never used    no-unused-vars
+   56:5   warning  'plane_arr2' is assigned a value but never used   no-unused-vars
+   57:5   warning  'check_yes' is assigned a value but never used    no-unused-vars
+   58:5   warning  'check_no' is assigned a value but never used     no-unused-vars
+   64:5   warning  'noArr_1' is assigned a value but never used      no-unused-vars
+   86:15  warning  'THREE' is not defined                            no-undef
+   88:21  warning  'THREE' is not defined                            no-undef
+   95:15  warning  'THREE' is not defined                            no-undef
+  101:2   warning  'initParentY' is not defined                      no-undef
+  102:2   warning  'initParentX' is not defined                      no-undef
+  103:2   warning  'initParentZ' is not defined                      no-undef
+  109:1   warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+  110:19  warning  'THREE' is not defined                            no-undef
+  117:17  warning  'THREE' is not defined                            no-undef
+  138:2   warning  'targetXRotationOnMouseDown' is not defined       no-undef
+  138:31  warning  'targetXRotation' is not defined                  no-undef
+  147:2   warning  'targetXRotation' is not defined                  no-undef
+  147:20  warning  'targetXRotationOnMouseDown' is not defined       no-undef
+  150:29  warning  'event' is defined but never used                 no-unused-vars
+  158:30  warning  'event' is defined but never used                 no-unused-vars
+  175:3   warning  'targetXRotationOnMouseDown' is not defined       no-undef
+  175:32  warning  'targetXRotation' is not defined                  no-undef
+  187:3   warning  'targetXRotation' is not defined                  no-undef
+  187:21  warning  'targetXRotationOnMouseDown' is not defined       no-undef
+  194:10  warning  'onWindowResize' is defined but never used        no-unused-vars
+  203:25  warning  'targetXRotation' is not defined                  no-undef
+  208:10  warning  'selectedMolecule' is defined but never used      no-unused-vars
+  212:2   warning  'daeName' is not defined                          no-undef
+  215:2   warning  'targetXRotation' is not defined                  no-undef
+  234:21  warning  'initParentZ' is not defined                      no-undef
+  235:21  warning  'initParentX' is not defined                      no-undef
+  244:47  warning  Unnecessary semicolon                             no-extra-semi
+  250:10  warning  'i' is already defined                            no-redeclare
+  263:11  warning  'i' is already defined                            no-redeclare
+  270:46  warning  Unnecessary semicolon                             no-extra-semi
+  274:46  warning  Unnecessary semicolon                             no-extra-semi
+  286:6   warning  'collada1' is defined but never used              no-unused-vars
+  287:19  warning  'THREE' is not defined                            no-undef
+  289:42  warning  'daeName' is not defined                          no-undef
+  290:15  warning  'THREE' is not defined                            no-undef
+  301:10  warning  'selectedCnAxis' is defined but never used        no-unused-vars
+  310:10  warning  'groupCombo' is defined but never used            no-unused-vars
+  318:10  warning  'linear_Yes' is defined but never used            no-unused-vars
+  362:3   warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+  369:3   warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+  411:12  warning  'k' is already defined                            no-redeclare
+  424:10  warning  'linear_No' is defined but never used             no-unused-vars
+  428:2   warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+  451:3   warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+  486:10  warning  'verify' is defined but never used                no-unused-vars
+  495:4   warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+  498:5   warning  Mixed spaces and tabs                             no-mixed-spaces-and-tabs
+  530:10  warning  'resetFN' is defined but never used               no-unused-vars
+  578:7   warning  'Effect' is not defined                           no-undef
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/src/builder.js
+   35:16  warning  Empty block statement       no-empty
+   60:24  warning  Empty block statement       no-empty
+   65:19  warning  'attr' is not defined       no-undef
+   66:25  warning  'attr' is not defined       no-undef
+   66:57  warning  'attr' is not defined       no-undef
+   66:78  warning  'attr' is not defined       no-undef
+   77:13  warning  '$' is not defined          no-undef
+   90:9   warning  'attribute' is not defined  no-undef
+   91:19  warning  'attribute' is not defined  no-undef
+   91:62  warning  'attribute' is not defined  no-undef
+   91:75  warning  'attribute' is not defined  no-undef
+   92:29  warning  'attribute' is not defined  no-undef
+  117:5   warning  '$' is not defined          no-undef
+  132:57  warning  '$A' is not defined         no-undef
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/src/controls.js
+   43:22  warning  'Class' is not defined                      no-undef
+   45:24  warning  '$' is not defined                          no-undef
+   47:24  warning  '$' is not defined                          no-undef
+   68:11  warning  'Position' is not defined                   no-undef
+   73:9   warning  'Effect' is not defined                     no-undef
+   76:38  warning  'Effect' is not defined                     no-undef
+   97:8   warning  'Prototype' is not defined                  no-undef
+   99:11  warning  'Insertion' is not defined                  no-undef
+  103:20  warning  '$' is not defined                          no-undef
+  109:5   warning  'Position' is not defined                   no-undef
+  136:8   warning  Expected a 'break' statement before 'case'  no-fallthrough
+  157:11  warning  'Prototype' is not defined                  no-undef
+  190:20  warning  'event' is defined but never used           no-unused-vars
+  245:19  warning  '$' is not defined                          no-undef
+  345:1   warning  'Ajax' is not defined                       no-undef
+  345:22  warning  'Class' is not defined                      no-undef
+  366:9   warning  'Ajax' is not defined                       no-undef
+  409:23  warning  'Class' is not defined                      no-undef
+  430:13  warning  'count' is assigned a value but never used  no-unused-vars
+  475:1   warning  'Field' is not defined                      no-undef
+  477:5   warning  'Field' is not defined                      no-undef
+  481:1   warning  'Ajax' is not defined                       no-undef
+  481:22  warning  'Class' is not defined                      no-undef
+  484:30  warning  '$' is not defined                          no-undef
+  491:11  warning  '$' is not defined                          no-undef
+  495:38  warning  '$' is not defined                          no-undef
+  501:55  warning  'Prototype' is not defined                  no-undef
+  567:6   warning  Unnecessary semicolon                       no-extra-semi
+  568:18  warning  '$' is not defined                          no-undef
+  602:24  warning  'e' is defined but never used               no-unused-vars
+  624:17  warning  '$F' is not defined                         no-undef
+  637:11  warning  'Ajax' is not defined                       no-undef
+  639:11  warning  'options' is already defined                no-redeclare
+  645:11  warning  'Ajax' is not defined                       no-undef
+  662:24  warning  'e' is defined but never used               no-unused-vars
+  674:19  warning  'Prototype' is not defined                  no-undef
+  686:9   warning  'Ajax' is not defined                       no-undef
+  691:7   warning  '$' is not defined                          no-undef
+  694:33  warning  'Ajax' is not defined                       no-undef
+  695:33  warning  'Ajax' is not defined                       no-undef
+  709:5   warning  '$H' is not defined                         no-undef
+  709:8   warning  'Ajax' is not defined                       no-undef
+  737:5   warning  '$H' is not defined                         no-undef
+  752:15  warning  'Ajax' is not defined                       no-undef
+  753:12  warning  'Ajax' is not defined                       no-undef
+  756:1   warning  'Ajax' is not defined                       no-undef
+  756:32  warning  'Class' is not defined                      no-undef
+  756:45  warning  'Ajax' is not defined                       no-undef
+  758:33  warning  'Ajax' is not defined                       no-undef
+  781:19  warning  'Prototype' is not defined                  no-undef
+  791:9   warning  'Ajax' is not defined                       no-undef
+  819:19  warning  'Prototype' is not defined                  no-undef
+  826:9   warning  'Ajax' is not defined                       no-undef
+  848:5   warning  'Field' is not defined                      no-undef
+  857:1   warning  'Ajax' is not defined                       no-undef
+  862:4   warning  Unnecessary semicolon                       no-extra-semi
+  871:15  warning  'Ajax' is not defined                       no-undef
+  904:14  warning  'Form' is not defined                       no-undef
+  909:11  warning  'Effect' is not defined                     no-undef
+  918:36  warning  'ipe' is defined but never used             no-unused-vars
+  924:25  warning  'Effect' is not defined                     no-undef
+  938:1   warning  'Ajax' is not defined                       no-undef
+  946:1   warning  'Form' is not defined                       no-undef
+  946:32  warning  'Class' is not defined                      no-undef
+  949:22  warning  '$' is not defined                          no-undef
+  952:22  warning  '$F' is not defined                         no-undef
+  955:29  warning  'event' is defined but never used           no-unused-vars
+  956:26  warning  '$F' is not defined                         no-undef
+  959:22  warning  '$F' is not defined                         no-undef
+  963:33  warning  '$F' is not defined                         no-undef
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/src/dragdrop.js
+  375:9  error  Parsing error: 'with' in strict mode
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/src/effects.js
+    21:35  warning  'i' is already defined                no-redeclare
+    31:10  warning  '$A' is not defined                   no-undef
+    31:13  warning  '$' is not defined                    no-undef
+    38:10  warning  '$A' is not defined                   no-undef
+    38:13  warning  '$' is not defined                    no-undef
+    46:13  warning  '$' is not defined                    no-undef
+    48:7   warning  'Prototype' is not defined            no-undef
+    53:10  warning  '$' is not defined                    no-undef
+    58:15  warning  '$' is not defined                    no-undef
+    62:14  warning  Empty block statement                 no-empty
+    73:13  warning  'Prototype' is not defined            no-undef
+    81:11  warning  'pos' is already defined              no-redeclare
+    93:20  warning  'pos' is defined but never used       no-unused-vars
+    96:20  warning  'pos' is defined but never used       no-unused-vars
+   111:9   warning  'Prototype' is not defined            no-undef
+   113:15  warning  '$' is not defined                    no-undef
+   114:5   warning  '$A' is not defined                   no-undef
+   133:18  warning  '$' is not defined                    no-undef
+   141:5   warning  '$A' is not defined                   no-undef
+   151:15  warning  '$' is not defined                    no-undef
+   164:22  warning  'Class' is not defined                no-undef
+   164:35  warning  'Enumerable' is not defined           no-undef
+   219:14  warning  '$H' is not defined                   no-undef
+   229:15  warning  'Class' is not defined                no-undef
+   301:16  warning  '$H' is not defined                   no-undef
+   302:9   warning  'property' is not defined             no-undef
+   303:35  warning  'property' is not defined             no-undef
+   303:56  warning  'property' is not defined             no-undef
+   303:71  warning  'property' is not defined             no-undef
+   304:57  warning  '$H' is not defined                   no-undef
+   308:19  warning  'Class' is not defined                no-undef
+   327:16  warning  'Class' is not defined                no-undef
+   329:40  warning  '$' is not defined                    no-undef
+   330:16  warning  '$A' is not defined                   no-undef
+   342:16  warning  'Class' is not defined                no-undef
+   346:11  warning  'Prototype' is not defined            no-undef
+   349:18  warning  'Class' is not defined                no-undef
+   351:20  warning  '$' is not defined                    no-undef
+   354:9   warning  'Prototype' is not defined            no-undef
+   367:15  warning  'Class' is not defined                no-undef
+   369:20  warning  '$' is not defined                    no-undef
+   401:16  warning  'Class' is not defined                no-undef
+   403:20  warning  '$' is not defined                    no-undef
+   453:20  warning  'position' is defined but never used  no-unused-vars
+   475:20  warning  'Class' is not defined                no-undef
+   477:20  warning  '$' is not defined                    no-undef
+   496:19  warning  '$R' is not defined                   no-undef
+   497:19  warning  '$R' is not defined                   no-undef
+   500:45  warning  '$R' is not defined                   no-undef
+   513:20  warning  '$' is not defined                    no-undef
+   528:13  warning  '$' is not defined                    no-undef
+   542:13  warning  '$' is not defined                    no-undef
+   557:13  warning  '$' is not defined                    no-undef
+   572:9   warning  'Position' is not defined             no-undef
+   581:13  warning  '$' is not defined                    no-undef
+   595:13  warning  '$' is not defined                    no-undef
+   613:13  warning  '$' is not defined                    no-undef
+   635:13  warning  '$' is not defined                    no-undef
+   655:13  warning  '$' is not defined                    no-undef
+   682:13  warning  '$' is not defined                    no-undef
+   710:13  warning  '$' is not defined                    no-undef
+   718:5   warning  Duplicate key 'scaleMode'             no-dupe-keys
+   752:13  warning  '$' is not defined                    no-undef
+   826:13  warning  '$' is not defined                    no-undef
+   880:13  warning  '$' is not defined                    no-undef
+   895:13  warning  '$' is not defined                    no-undef
+   905:35  warning  'effect' is defined but never used    no-unused-vars
+   915:16  warning  'Class' is not defined                no-undef
+   917:20  warning  '$' is not defined                    no-undef
+   923:55  warning  '$H' is not defined                   no-undef
+   929:22  warning  '$H' is not defined                   no-undef
+   950:14  warning  '$R' is not defined                   no-undef
+   962:13  warning  'Prototype' is not defined            no-undef
+   965:44  warning  Unnecessary escape character: \+      no-useless-escape
+   965:46  warning  Unnecessary escape character: \-      no-useless-escape
+   965:54  warning  Unnecessary escape character: \.      no-useless-escape
+  1005:20  warning  'Class' is not defined                no-undef
+  1013:15  warning  '$H' is not defined                   no-undef
+  1015:24  warning  '$H' is not defined                   no-undef
+  1027:25  warning  '$' is not defined                    no-undef
+  1027:35  warning  '$$' is not defined                   no-undef
+  1035:26  warning  '$w' is not defined                   no-undef
+  1046:27  warning  Unnecessary escape character: \+      no-useless-escape
+  1046:29  warning  Unnecessary escape character: \-      no-useless-escape
+  1046:37  warning  Unnecessary escape character: \.      no-useless-escape
+  1046:67  warning  Unnecessary escape character: \%      no-useless-escape
+  1050:27  warning  '$H' is not defined                   no-undef
+  1051:7   warning  'Prototype' is not defined            no-undef
+  1062:7   warning  'Prototype' is not defined            no-undef
+  1070:53  warning  '$' is not defined                    no-undef
+  1078:15  warning  '$' is not defined                    no-undef
+  1091:15  warning  '$' is not defined                    no-undef
+  1096:15  warning  '$' is not defined                    no-undef
+  1102:15  warning  '$' is not defined                    no-undef
+  1108:1   warning  '$w' is not defined                   no-undef
+  1112:17  warning  '$' is not defined                    no-undef
+  1119:1   warning  '$w' is not defined                   no-undef
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/src/scriptaculous.js
+  31:77  warning  Unnecessary escape character: \/  no-useless-escape
+  51:30  warning  'Prototype' is not defined        no-undef
+  57:5   warning  '$$' is not defined               no-undef
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/src/slider.js
+   16:18  warning  'Class' is not defined               no-undef
+   21:59  warning  '$' is not defined                   no-undef
+   23:23  warning  '$' is not defined                   no-undef
+   26:20  warning  '$' is not defined                   no-undef
+   32:44  warning  '$R' is not defined                  no-undef
+   36:86  warning  '$' is not defined                   no-undef
+   37:30  warning  '$' is not defined                   no-undef
+   38:30  warning  '$' is not defined                   no-undef
+   64:75  warning  'Prototype' is not defined           no-undef
+  162:32  warning  'Prototype' is not defined           no-undef
+  164:12  warning  '$R' is not defined                  no-undef
+  182:7   warning  '$R' is not defined                  no-undef
+  185:9   warning  '$R' is not defined                  no-undef
+  188:9   warning  '$R' is not defined                  no-undef
+  217:15  warning  'offsets' is already defined         no-redeclare
+  230:17  warning  'offsets' is already defined         no-redeclare
+  243:11  warning  'Prototype' is not defined           no-undef
+  265:24  warning  'event' is defined but never used    no-unused-vars
+  265:31  warning  'success' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/src/sound.js
+  10:1   warning  'Sound' is not defined      no-undef
+  14:9   warning  'Template' is not defined   no-undef
+  16:5   warning  'Sound' is not defined      no-undef
+  19:5   warning  'Sound' is not defined      no-undef
+  22:9   warning  'Sound' is not defined      no-undef
+  28:7   warning  '$R' is not defined         no-undef
+  29:21  warning  '$' is not defined          no-undef
+  42:5   warning  '$$' is not defined         no-undef
+  43:7   warning  'Prototype' is not defined  no-undef
+  46:12  warning  'Sound' is not defined      no-undef
+  50:4   warning  'Prototype' is not defined  no-undef
+  51:27  warning  '$A' is not defined         no-undef
+  52:5   warning  'Sound' is not defined      no-undef
+  52:26  warning  'Template' is not defined   no-undef
+  53:32  warning  '$A' is not defined         no-undef
+  54:5   warning  'Sound' is not defined      no-undef
+  54:26  warning  'Template' is not defined   no-undef
+  55:32  warning  '$A' is not defined         no-undef
+  56:5   warning  'Sound' is not defined      no-undef
+  56:26  warning  'Template' is not defined   no-undef
+  58:5   warning  'Sound' is not defined      no-undef
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/flash/simulation/js/three.min.js
+    4:80   warning  'a' is already defined                                           no-redeclare
+   10:412  warning  'a' is already defined                                           no-redeclare
+   17:440  warning  'a' is already defined                                           no-redeclare
+   23:291  warning  'd' is already defined                                           no-redeclare
+   27:431  warning  'a' is already defined                                           no-redeclare
+   32:189  warning  'a' is already defined                                           no-redeclare
+   34:92   warning  'a' is already defined                                           no-redeclare
+   34:298  warning  'b' is already defined                                           no-redeclare
+   34:387  warning  'b' is already defined                                           no-redeclare
+   37:480  warning  'c' is already defined                                           no-redeclare
+   38:97   warning  'd' is already defined                                           no-redeclare
+   42:180  warning  'a' is already defined                                           no-redeclare
+   45:180  warning  'c' is already defined                                           no-redeclare
+   46:488  warning  'd' is already defined                                           no-redeclare
+   47:15   warning  'f' is already defined                                           no-redeclare
+   47:43   warning  'e' is already defined                                           no-redeclare
+   48:474  warning  'a' is already defined                                           no-redeclare
+   48:486  warning  'c' is already defined                                           no-redeclare
+   48:498  warning  'd' is already defined                                           no-redeclare
+   49:3    warning  'f' is already defined                                           no-redeclare
+   49:9    warning  'g' is already defined                                           no-redeclare
+   49:15   warning  'h' is already defined                                           no-redeclare
+   49:21   warning  'e' is already defined                                           no-redeclare
+   51:161  warning  'a' is already defined                                           no-redeclare
+   51:271  warning  'a' is already defined                                           no-redeclare
+   51:375  warning  'c' is already defined                                           no-redeclare
+   52:84   warning  'a' is already defined                                           no-redeclare
+   52:349  warning  'a' is already defined                                           no-redeclare
+   53:87   warning  'a' is already defined                                           no-redeclare
+   53:330  warning  'a' is already defined                                           no-redeclare
+   54:204  warning  'd' is already defined                                           no-redeclare
+   54:210  warning  'f' is already defined                                           no-redeclare
+   54:216  warning  'e' is already defined                                           no-redeclare
+   54:222  warning  'g' is already defined                                           no-redeclare
+   54:290  warning  'n' is already defined                                           no-redeclare
+   54:298  warning  'd' is already defined                                           no-redeclare
+   54:310  warning  'l' is already defined                                           no-redeclare
+   54:316  warning  'e' is already defined                                           no-redeclare
+   54:328  warning  'g' is already defined                                           no-redeclare
+   54:334  warning  'f' is already defined                                           no-redeclare
+   54:340  warning  'm' is already defined                                           no-redeclare
+   54:346  warning  'h' is already defined                                           no-redeclare
+   54:358  warning  'l' is already defined                                           no-redeclare
+   54:364  warning  'q' is already defined                                           no-redeclare
+   54:370  warning  'n' is already defined                                           no-redeclare
+   54:376  warning  'i' is already defined                                           no-redeclare
+   54:388  warning  'j' is already defined                                           no-redeclare
+   54:395  warning  'd' is already defined                                           no-redeclare
+   54:402  warning  'p' is already defined                                           no-redeclare
+   55:242  warning  'a' is already defined                                           no-redeclare
+   56:217  warning  'a' is already defined                                           no-redeclare
+   56:331  warning  'a' is already defined                                           no-redeclare
+   56:445  warning  'a' is already defined                                           no-redeclare
+   58:78   warning  'a' is already defined                                           no-redeclare
+   61:82   warning  'a' is already defined                                           no-redeclare
+   61:192  warning  'c' is already defined                                           no-redeclare
+   62:72   warning  'b' is already defined                                           no-redeclare
+   62:101  warning  'a' is already defined                                           no-redeclare
+   63:390  warning  'a' is already defined                                           no-redeclare
+   64:8    warning  'a' is already defined                                           no-redeclare
+   64:19   warning  'b' is already defined                                           no-redeclare
+   64:30   warning  'c' is already defined                                           no-redeclare
+   64:52   warning  'd' is already defined                                           no-redeclare
+   64:77   warning  'f' is already defined                                           no-redeclare
+   64:91   warning  'a' is already defined                                           no-redeclare
+   67:56   warning  'a' is already defined                                           no-redeclare
+   95:106  warning  'a' is already defined                                           no-redeclare
+   95:155  warning  'b' is already defined                                           no-redeclare
+   97:320  warning  'a' is already defined                                           no-redeclare
+   98:68   warning  'c' is already defined                                           no-redeclare
+  100:208  warning  'b' is already defined                                           no-redeclare
+  127:143  warning  'g' is already defined                                           no-redeclare
+  127:236  warning  'e' is already defined                                           no-redeclare
+  127:256  warning  'g' is already defined                                           no-redeclare
+  137:179  warning  'a' is already defined                                           no-redeclare
+  137:197  warning  'c' is already defined                                           no-redeclare
+  143:170  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  144:475  warning  'b' is already defined                                           no-redeclare
+  147:157  warning  'a' is already defined                                           no-redeclare
+  153:124  warning  'c' is already defined                                           no-redeclare
+  153:153  warning  'd' is already defined                                           no-redeclare
+  158:401  warning  'c' is already defined                                           no-redeclare
+  158:453  warning  'd' is already defined                                           no-redeclare
+  159:87   warning  'c' is already defined                                           no-redeclare
+  159:139  warning  'd' is already defined                                           no-redeclare
+  159:295  warning  'c' is already defined                                           no-redeclare
+  159:322  warning  'd' is already defined                                           no-redeclare
+  159:374  warning  'f' is already defined                                           no-redeclare
+  160:210  warning  'c' is already defined                                           no-redeclare
+  160:237  warning  'd' is already defined                                           no-redeclare
+  160:289  warning  'f' is already defined                                           no-redeclare
+  162:180  warning  'F' is already defined                                           no-redeclare
+  178:317  warning  'a' is already defined                                           no-redeclare
+  184:8    warning  'g' is already defined                                           no-redeclare
+  184:31   warning  'm' is already defined                                           no-redeclare
+  184:43   warning  'j' is already defined                                           no-redeclare
+  184:54   warning  'l' is already defined                                           no-redeclare
+  184:321  warning  'e' is already defined                                           no-redeclare
+  184:340  warning  'p' is already defined                                           no-redeclare
+  184:354  warning  'o' is already defined                                           no-redeclare
+  185:84   warning  't' is already defined                                           no-redeclare
+  185:102  warning  't' is already defined                                           no-redeclare
+  185:177  warning  'A' is already defined                                           no-redeclare
+  185:188  warning  'u' is already defined                                           no-redeclare
+  190:206  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  200:217  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  247:289  warning  'a' is already defined                                           no-redeclare
+  256:254  warning  'b' is already defined                                           no-redeclare
+  267:454  warning  'a' is already defined                                           no-redeclare
+  269:40   warning  'a' is already defined                                           no-redeclare
+  279:344  warning  'va' is already defined                                          no-redeclare
+  279:369  warning  'p' is already defined                                           no-redeclare
+  279:449  warning  'h' is already defined                                           no-redeclare
+  279:460  warning  'i' is already defined                                           no-redeclare
+  279:473  warning  'c' is already defined                                           no-redeclare
+  279:479  warning  'd' is already defined                                           no-redeclare
+  279:485  warning  'e' is already defined                                           no-redeclare
+  279:491  warning  'g' is already defined                                           no-redeclare
+  279:497  warning  'k' is already defined                                           no-redeclare
+  280:9    warning  'j' is already defined                                           no-redeclare
+  280:24   warning  'l' is already defined                                           no-redeclare
+  280:37   warning  'n' is already defined                                           no-redeclare
+  280:52   warning  'va' is already defined                                          no-redeclare
+  284:238  warning  'ca' is already defined                                          no-redeclare
+  345:492  warning  'd' is already defined                                           no-redeclare
+  352:435  warning  'c' is already defined                                           no-redeclare
+  352:447  warning  'e' is already defined                                           no-redeclare
+  361:411  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  370:29   warning  'a' is already defined                                           no-redeclare
+  377:442  warning  'a' is already defined                                           no-redeclare
+  383:309  warning  'J' is already defined                                           no-redeclare
+  390:233  warning  'a' is already defined                                           no-redeclare
+  398:16   warning  'c' is already defined                                           no-redeclare
+  398:31   warning  'b' is already defined                                           no-redeclare
+  398:46   warning  'a' is already defined                                           no-redeclare
+  398:54   warning  'c' is already defined                                           no-redeclare
+  408:361  warning  't' is already defined                                           no-redeclare
+  408:372  warning  't' is already defined                                           no-redeclare
+  462:391  warning  'o' is already defined                                           no-redeclare
+  462:404  warning  'b' is already defined                                           no-redeclare
+  462:419  warning  'c' is already defined                                           no-redeclare
+  464:279  warning  'd' is already defined                                           no-redeclare
+  471:125  warning  'd' is already defined                                           no-redeclare
+  474:457  warning  'a' is already defined                                           no-redeclare
+  477:526  warning  'f' is already defined                                           no-redeclare
+  490:357  warning  'g' is already defined                                           no-redeclare
+  490:363  warning  'c' is already defined                                           no-redeclare
+  492:391  warning  'q' is already defined                                           no-redeclare
+  492:500  warning  'g' is already defined                                           no-redeclare
+  495:33   warning  'd' is already defined                                           no-redeclare
+  495:40   warning  'f' is already defined                                           no-redeclare
+  496:211  warning  'b' is already defined                                           no-redeclare
+  499:213  warning  'a' is already defined                                           no-redeclare
+  502:328  warning  'g' is already defined                                           no-redeclare
+  502:344  warning  'h' is already defined                                           no-redeclare
+  502:360  warning  'i' is already defined                                           no-redeclare
+  513:114  warning  'b' is already defined                                           no-redeclare
+  514:367  warning  'b' is already defined                                           no-redeclare
+  515:254  warning  'b' is already defined                                           no-redeclare
+  518:377  warning  'b' is already defined                                           no-redeclare
+  520:12   warning  'o' is already defined                                           no-redeclare
+  520:32   warning  'o' is already defined                                           no-redeclare
+  520:66   warning  'u' is already defined                                           no-redeclare
+  521:48   warning  'c' is already defined                                           no-redeclare
+  538:41   warning  'a' is already defined                                           no-redeclare
+  538:75   warning  'h' is already defined                                           no-redeclare
+  538:115  warning  'd' is already defined                                           no-redeclare
+  539:71   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  539:327  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  540:50   warning  'b' is already defined                                           no-redeclare
+  542:37   warning  'w' is already defined                                           no-redeclare
+  542:49   warning  's' is already defined                                           no-redeclare
+  542:61   warning  'B' is already defined                                           no-redeclare
+  542:73   warning  'v' is already defined                                           no-redeclare
+  542:85   warning  'A' is already defined                                           no-redeclare
+  542:97   warning  'E' is already defined                                           no-redeclare
+  542:199  warning  'z' is already defined                                           no-redeclare
+  542:211  warning  'M' is already defined                                           no-redeclare
+  542:331  warning  'D' is already defined                                           no-redeclare
+  542:344  warning  'D' is already defined                                           no-redeclare
+  542:350  warning  'G' is already defined                                           no-redeclare
+  542:356  warning  'H' is already defined                                           no-redeclare
+  542:362  warning  'O' is already defined                                           no-redeclare
+  542:368  warning  'F' is already defined                                           no-redeclare
+  542:374  warning  'J' is already defined                                           no-redeclare
+  542:380  warning  'I' is already defined                                           no-redeclare
+  542:386  warning  'K' is already defined                                           no-redeclare
+  542:392  warning  'V' is already defined                                           no-redeclare
+  542:398  warning  'Y' is already defined                                           no-redeclare
+  542:404  warning  '$' is already defined                                           no-redeclare
+  542:410  warning  'L' is already defined                                           no-redeclare
+  542:416  warning  'D' is already defined                                           no-redeclare
+  542:426  warning  'F' is already defined                                           no-redeclare
+  542:436  warning  'H' is already defined                                           no-redeclare
+  547:59   warning  'a' is already defined                                           no-redeclare
+  555:331  warning  'a' is already defined                                           no-redeclare
+  555:343  warning  'd' is already defined                                           no-redeclare
+  559:136  warning  'a' is already defined                                           no-redeclare
+  559:298  warning  'c' is already defined                                           no-redeclare
+  562:102  warning  'a' is already defined                                           no-redeclare
+  571:38   warning  'a' is defined but never used                                    no-unused-vars
+  571:40   warning  'b' is defined but never used                                    no-unused-vars
+  571:278  warning  'd' is already defined                                           no-redeclare
+  572:144  warning  'e' is already defined                                           no-redeclare
+  573:145  warning  'h' is already defined                                           no-redeclare
+  574:132  warning  'c' is already defined                                           no-redeclare
+  577:128  warning  'a' is already defined                                           no-redeclare
+  587:131  warning  'c' is already defined                                           no-redeclare
+  603:230  warning  'c' is already defined                                           no-redeclare
+  604:96   warning  'c' is already defined                                           no-redeclare
+  605:309  warning  'c' is already defined                                           no-redeclare
+  610:387  warning  'a' is already defined                                           no-redeclare
+  610:458  warning  'e' is already defined                                           no-redeclare
+  611:311  warning  'l' is already defined                                           no-redeclare
+  619:125  warning  'b' is already defined                                           no-redeclare
+  619:150  warning  'a' is already defined                                           no-redeclare
+  619:160  warning  'b' is already defined                                           no-redeclare
+  619:174  warning  'a' is already defined                                           no-redeclare
+  629:504  warning  'b' is already defined                                           no-redeclare
+  639:562  warning  'a' is already defined                                           no-redeclare
+  640:16   warning  'b' is already defined                                           no-redeclare
+  640:30   warning  'g' is already defined                                           no-redeclare
+  640:40   warning  'c' is already defined                                           no-redeclare
+  640:110  warning  'g' is already defined                                           no-redeclare
+  640:132  warning  'c' is already defined                                           no-redeclare
+  640:283  warning  'g' is already defined                                           no-redeclare
+  640:318  warning  'h' is already defined                                           no-redeclare
+  647:124  warning  'a' is already defined                                           no-redeclare
+  662:290  warning  'a' is already defined                                           no-redeclare
+  671:26   warning  'd' is already defined                                           no-redeclare
+  671:32   warning  'e' is already defined                                           no-redeclare
+  671:38   warning  'e' is already defined                                           no-redeclare
+  673:70   warning  'a' is already defined                                           no-redeclare
+  673:78   warning  'c' is already defined                                           no-redeclare
+  673:95   warning  'd' is already defined                                           no-redeclare
+  673:120  warning  'b' is already defined                                           no-redeclare
+  678:76   warning  'a' is already defined                                           no-redeclare
+  678:94   warning  'b' is already defined                                           no-redeclare
+  678:112  warning  'c' is already defined                                           no-redeclare
+  678:137  warning  'd' is already defined                                           no-redeclare
+  678:144  warning  'f' is already defined                                           no-redeclare
+  679:226  warning  'q' is already defined                                           no-redeclare
+  679:236  warning  'p' is already defined                                           no-redeclare
+  679:248  warning  'o' is already defined                                           no-redeclare
+  679:262  warning  'r' is already defined                                           no-redeclare
+  685:33   warning  'g' is already defined                                           no-redeclare
+  685:74   warning  'i' is already defined                                           no-redeclare
+  685:90   warning  'j' is already defined                                           no-redeclare
+  685:118  warning  'n' is already defined                                           no-redeclare
+  685:124  warning  'i' is already defined                                           no-redeclare
+  685:130  warning  'o' is already defined                                           no-redeclare
+  685:136  warning  'j' is already defined                                           no-redeclare
+  687:122  warning  'q' is already defined                                           no-redeclare
+  687:152  warning  'q' is already defined                                           no-redeclare
+  687:360  warning  'H' is already defined                                           no-redeclare
+  691:368  warning  'b' is already defined                                           no-redeclare
+  691:386  warning  'c' is already defined                                           no-redeclare
+  691:404  warning  'f' is already defined                                           no-redeclare
+  691:422  warning  'd' is already defined                                           no-redeclare
+  691:458  warning  'e' is already defined                                           no-redeclare
+  692:1    warning  'g' is already defined                                           no-redeclare
+  692:55   warning  'a' is already defined                                           no-redeclare
+  696:71   warning  'b' is already defined                                           no-redeclare
+  696:79   warning  'c' is already defined                                           no-redeclare
+  696:217  warning  'c' is already defined                                           no-redeclare
+  698:85   warning  'c' is already defined                                           no-redeclare
+  698:92   warning  'd' is already defined                                           no-redeclare
+  698:150  warning  'a' is already defined                                           no-redeclare
+  700:76   warning  'a' is already defined                                           no-redeclare
+  700:84   warning  'd' is already defined                                           no-redeclare
+  700:101  warning  'f' is already defined                                           no-redeclare
+  700:126  warning  'e' is already defined                                           no-redeclare
+  700:143  warning  'g' is already defined                                           no-redeclare
+  700:166  warning  'b' is already defined                                           no-redeclare
+  700:197  warning  'c' is already defined                                           no-redeclare
+  701:64   warning  'd' is already defined                                           no-redeclare
+  701:76   warning  'f' is already defined                                           no-redeclare
+  701:86   warning  'e' is already defined                                           no-redeclare
+  701:98   warning  'g' is already defined                                           no-redeclare
+  701:112  warning  'n' is already defined                                           no-redeclare
+  701:151  warning  'm' is already defined                                           no-redeclare
+  701:190  warning  'q' is already defined                                           no-redeclare
+  701:229  warning  'p' is already defined                                           no-redeclare
+  701:268  warning  'o' is already defined                                           no-redeclare
+  705:207  warning  'f' is already defined                                           no-redeclare
+  705:234  warning  'e' is already defined                                           no-redeclare
+  705:265  warning  'g' is already defined                                           no-redeclare
+  705:294  warning  'h' is already defined                                           no-redeclare
+  708:93   warning  'g' is already defined                                           no-redeclare
+  708:122  warning  'e' is already defined                                           no-redeclare
+  708:174  warning  'i' is already defined                                           no-redeclare
+  709:54   warning  'f' is already defined                                           no-redeclare
+  709:77   warning  'e' is already defined                                           no-redeclare
+  709:100  warning  'c' is already defined                                           no-redeclare
+  709:118  warning  'd' is already defined                                           no-redeclare
+  709:136  warning  'f' is already defined                                           no-redeclare
+  709:154  warning  'e' is already defined                                           no-redeclare
+  709:172  warning  'g' is already defined                                           no-redeclare
+  709:222  warning  'i' is already defined                                           no-redeclare
+  711:219  warning  'e' is already defined                                           no-redeclare
+  711:269  warning  'b' is already defined                                           no-redeclare
+  714:168  warning  'b' is already defined                                           no-redeclare
+  716:156  warning  'a' is already defined                                           no-redeclare
+  718:9    warning  'c' is already defined                                           no-redeclare
+  718:16   warning  'd' is already defined                                           no-redeclare
+  718:112  warning  'a' is already defined                                           no-redeclare
+  718:128  warning  'j' is already defined                                           no-redeclare
+  718:132  warning  'l' is already defined                                           no-redeclare
+  721:127  warning  'd' is already defined                                           no-redeclare
+  723:321  warning  'g' is already defined                                           no-redeclare
+  729:210  warning  'a' is already defined                                           no-redeclare
+  739:44   warning  'h' is already defined                                           no-redeclare
+  740:455  warning  'A' is already defined                                           no-redeclare
+  743:124  warning  'O' is already defined                                           no-redeclare
+  743:148  warning  'F' is already defined                                           no-redeclare
+  743:173  warning  'J' is already defined                                           no-redeclare
+  752:76   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  752:220  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  753:434  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  754:77   warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  754:347  warning  Expected a conditional expression and instead saw an assignment  no-cond-assign
+  761:197  warning  'a' is already defined                                           no-redeclare
+  761:368  warning  'A' is already defined                                           no-redeclare
+  766:172  warning  'g' is already defined                                           no-redeclare
+  779:61   warning  'a' is already defined                                           no-redeclare
+  781:106  warning  'd' is already defined                                           no-redeclare
+  781:160  warning  'q' is already defined                                           no-redeclare
+  782:138  warning  'r' is already defined                                           no-redeclare
+  785:170  warning  'e' is already defined                                           no-redeclare
+
+/home/runner/work/exp-group-theory-amrt/exp-group-theory-amrt/experiment/simulation/js/main.js
+   2:10  warning  'copyLink' is defined but never used         no-unused-vars
+  12:10  warning  'toggleAccordion' is defined but never used  no-unused-vars
+
+✖ 1195 problems (1 error, 1194 warnings)
+  0 errors and 86 warnings potentially fixable with the `--fix` option.
+
