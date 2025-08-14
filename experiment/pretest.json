@@ -34,6 +34,57 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+     {
+      "question": "Which compound contains Icosahedron as a point group?",
+      "answers": {
+        "a": "Water",
+        "b": "Fullerene",
+        "c": "Benzene",
+        "d": "Cl₂"
+      },
+      "explanations": {
+        "a": "Water is C₂v",
+        "b": "Fullerene has icosahedral symmetry",
+        "c": "Benzene is D₆h",
+        "d": "Cl₂ is D∞h"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The order of Th group is",
+      "answers": {
+        "a": "11",
+        "b": "24",
+        "c": "10",
+        "d": "18"
+      },
+      "explanations": {
+        "a": "Th has more than 11 symmetry elements",
+        "b": "Correct: Th has 24 elements",
+        "c": "Incorrect, too low",
+        "d": "Also too low"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Cis Dichloroethane belongs to C₂v point group, whereas trans Dichloroethane belongs to",
+      "answers": {
+        "a": "Dnh",
+        "b": "C₃v",
+        "c": "C₂h",
+        "d": "C₂n"
+      },
+      "explanations": {
+        "a": "Incorrect group",
+        "b": "C₃v is for trigonal pyramidal",
+        "c": "Correct for trans isomer",
+        "d": "Not a valid group here"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
     }
   ]
 }
